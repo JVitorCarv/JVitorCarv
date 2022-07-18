@@ -2,7 +2,7 @@
 
 - 📚 CS Undergraduate at [CESAR School](http://www.cesar.school)
 - 🏠 I'm from Recife, Pernambuco, Brazil
-- 🌱 I’m currently learning: **Web Development with JavaScript** and **Object Oriented Programming with Java**
+- 🌱 I’m currently learning: **Web Development with Node.js** and **Lambda functions with Java**
 
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
