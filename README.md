@@ -4,7 +4,7 @@
 - 🏠 I'm from Recife, Pernambuco, Brazil
 - 🌱 I’m currently learning: **Web Development with JavaScript** and **Object Oriented Programming with Java**
 
-<div align ="center"><b>Wanna talk to Me? don't be shy!</b></div><br>
+<div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
   <a href="mailto:vitor.velozo2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/JVitorCarv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
