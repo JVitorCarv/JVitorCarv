@@ -2,7 +2,7 @@
 
 - 📚 CS Undergraduate at [CESAR School](http://www.cesar.school)
 - 🏠 I'm from Recife, Pernambuco, Brazil
-- 🌱 I’m currently learning: **Web Development with Node.js** and **JUnit5**
+- 🌱 I’m currently learning: **Web Development** and **JUnit5**
 
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
