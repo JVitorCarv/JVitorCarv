@@ -3,7 +3,7 @@
 - 📚 CS Undergraduate at [CESAR School](http://www.cesar.school)
 - 🧪 Test Engineering Intern at [CESAR](https://www.cesar.org.br)
 - 🏠 I'm from Recife, Pernambuco, Brazil
-- 🌱 I’m currently learning: **Java** and **Google Cloud**
+- 🌱 I’m currently learning: **React**
 
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
