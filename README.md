@@ -1,9 +1,8 @@
 # Hey! I'm Vitor Carvalho 👋
 
 - 📚 CS Undergraduate at [CESAR School](http://www.cesar.school)
-- 🧪 Test Engineering Intern at [CESAR](https://www.cesar.org.br)
 - 🏠 I'm from Recife, Pernambuco, Brazil
-- 🌱 I’m currently learning: **Springboot and AI**
+- 🌱 I’m currently learning: **Springboot, AWS, ReactJS and Django**
 
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
