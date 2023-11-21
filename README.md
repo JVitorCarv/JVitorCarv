@@ -1,6 +1,7 @@
 # Hey! I'm Vitor Carvalho 👋
 
 - 📚 CS Undergraduate at [CESAR School](http://www.cesar.school)
+- 💻 Software Engineer at [testRigor](https://testrigor.com/)
 - 🏠 I'm from Recife, Pernambuco, Brazil
 - 🌱 I’m currently learning: **Springboot, AWS, ReactJS and Django**
 
