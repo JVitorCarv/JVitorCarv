@@ -3,7 +3,7 @@
 - 💻 Data Science Intern at [CESAR](https://www.cesar.org.br/)
 - 📚 CS Undergraduate at [CESAR School](http://www.cesar.school)
 - 🏠 I'm from Recife, Pernambuco, Brazil
-- 🌱 I’m currently learning: **Springboot, AWS, ReactJS and Django**
+- 🌱 I’m currently learning: **PyTorch, Keras and TensorFlow**
 
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
