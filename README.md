@@ -1,7 +1,7 @@
 # Hey! I'm Vitor Carvalho 👋
 
+- 💻 Data Science Intern at [CESAR](https://www.cesar.org.br/)
 - 📚 CS Undergraduate at [CESAR School](http://www.cesar.school)
-- 💻 Software Engineer at [aca.so](https://aca.so/)
 - 🏠 I'm from Recife, Pernambuco, Brazil
 - 🌱 I’m currently learning: **Springboot, AWS, ReactJS and Django**
 
