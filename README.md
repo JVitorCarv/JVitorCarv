@@ -1,7 +1,7 @@
 # Hey! I'm Vitor Carvalho 👋
 
-- 💻 Data Science Intern at [CESAR](https://www.cesar.org.br/)
-- 📚 CS Student at [CESAR School](http://www.cesar.school)
+- 💻 Data Scientist @ [CESAR](https://www.cesar.org.br/)
+- 📚 Computer Science student @ [CESAR School](http://www.cesar.school)
 - 🏠 I'm from Recife, Pernambuco, Brazil
 - 🌱 I’m currently learning: **PyTorch, Keras and TensorFlow**
 
